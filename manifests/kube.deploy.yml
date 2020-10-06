@@ -37,7 +37,7 @@ spec:
     spec:
       containers:
       - name: tradehistory
-        image: ibmstocktrader/trade-history:latest
+        image: slombardo2/trade-history:latest
         env:
           - name: JWT_AUDIENCE
             valueFrom:
