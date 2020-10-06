@@ -3,7 +3,7 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: ibmstocktrader/trade-history
+  repository: slombardo2/trade-history
   tag: latest
   pullPolicy: IfNotPresent
   resources:
