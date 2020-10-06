@@ -50,8 +50,8 @@ import io.swagger.annotations.Api;
         title = "Trade History",
         version = "0.0",
         description = "TradeHistory API",
-        contact = @Contact(url = "https://github.com/IBMStockTrader", name = "IBMStockTrader"),
-        license = @License(name = "License", url = "https://github.com/IBMStockTrader/trade-history/blob/master/LICENSE")
+        contact = @Contact(url = "https://github.com/slombardo2", name = "IBMStockTrader"),
+        license = @License(name = "License", url = "https://github.com/slombardo2/trade-history/blob/master/LICENSE")
         )
 )
 public class Trades {
